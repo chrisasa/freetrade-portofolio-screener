@@ -1,0 +1,14 @@
+{
+    "transactions": [
+        {
+            "timestamp": "",
+            "action": "",
+            "total_shares": 1.00,
+            "stock_price_usd": 1.00,
+            "currency_gbp_to_usd": 1.00,
+            "total_value_usd": 1.00,
+            "total_value_gbp": 1.00,
+            "total_cost_gbp": 1.00
+        }
+    ]
+}

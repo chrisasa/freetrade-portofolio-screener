@@ -1,0 +1,10 @@
+{
+    "transactions": [
+        {
+            "action": "",
+            "total_shares": 1.00,
+            "stock_price_usd": 1.00,
+            "currency_gbp_to_usd": 1.00
+        }
+    ]
+}

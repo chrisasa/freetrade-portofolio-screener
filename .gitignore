@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Project related entries
+*.DS_Store
+
+/.idea/*
+
+/stocks_files/*
+!/stocks_files/template*
+
+/support_files/*
+!/support_files/template*
+
+/configs/*
+!/configs/template*
+
+/exporters/influxdb/configs/*
+!/exporters/influxdb/configs/template*
+

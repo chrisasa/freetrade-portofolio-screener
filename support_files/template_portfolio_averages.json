@@ -1,0 +1,10 @@
+{
+    "stocks": [
+        {
+            "ticker": "",
+            "total_shares": 1.00,
+            "avg_stock_price_usd": 1.00,
+            "avg_currency_gbp_to_usd": 1.00
+        }
+    ]
+}
